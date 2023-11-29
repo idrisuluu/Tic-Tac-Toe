@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "df7ffcc6f1cf7a31407bbb492f1369ec08a528de04994e3f58d0ce77534c2f6c"
+build_start_time: [1676113968, 22011041]
+build_end_time: [1676113990, 325193881]
+inputs:
+  "/Users/idrisulu/Desktop/flutter-tic-tac-toe-main 2/macos/Flutter/GeneratedPluginRegistrant.swift": [1676113947, 978204250]
+  "/Users/idrisulu/Desktop/flutter-tic-tac-toe-main 2/macos/Runner/AppDelegate.swift": [1666010053, 0]
+  "/Users/idrisulu/Desktop/flutter-tic-tac-toe-main 2/macos/Runner/MainFlutterWindow.swift": [1666010053, 0]
